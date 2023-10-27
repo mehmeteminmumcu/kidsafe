@@ -1,14 +1,191 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "users": [
+    {
+      "id": "FrQZDNh83UZYeIlCwtuf",
+      "android_api_level": 29,
+      "android_version": 20220822,
+      "avatar_picture": "https://lh3.googleusercontent.com/a/ACg8ocKCt_g9tp1pjFnY5sST-dOwX0rgDBziXtUR5sNzUJzUNPE=s96-c",
+      "config": "",
+      "device_brand": "Xiaomi",
+      "device_model": "Mi 9T",
+      "email": "esaruhan43@gmail.com",
+      "name": "Ertuğrul Saruhan",
+      "platform": "android",
+      "platform_id": "eqhiurLXQIKw5cCuDBrzC4:APA91bEGkv0J4QSZsTLE8vj_soXNtEt3sVotQCYdgcoVo9eZRRsHynkasVCNaxCGqYh3TT6eJ4O3oHjToSPv9bYsKA7BsxmviM3Ur6ZS5-wjU9AyykB5wz3wm-PoJnwR9vtY5LPMcizK",
+      "surname": "Ertuğrul Saruhan",
+      "timezone_id": "Europe/Istanbul",
+      "timezone_name": "GMT+03:00",
+      "uuid": "eqhiurLXQIKw5cCuDBrzC4",
+      "childs": [],
+      "codes": [
+        {
+          "Document ID": "60HGFM6FD5wYE3cMMy98",
+          "code": 340853,
+          "nick_name": "Pazar1",
+          "time": 1696153284617,
+          "used": true
+        },
+        {
+          "Document ID": "LB3LIPDsAEpkjb3LsWFY",
+          "code": 201207,
+          "nick_name": "Myigit",
+          "time": 1696156669920,
+          "used": true
+        },
+        {
+          "Document ID": "Lqw8VPCgBP6puKVMBucn",
+          "code": 193449,
+          "nick_name": "Pazar 2",
+          "time": 1696153542714,
+          "used": true
+        },
+        {
+          "Document ID": "UrLxoBhVjrHKEvEbr87w",
+          "code": 868771,
+          "nick_name": "Myigit",
+          "time": 1696094649885,
+          "used": true
+        },
+        {
+          "Document ID": "sTd9HF2pGwF0guKFj3my",
+          "code": 994639,
+          "nick_name": "tesetsf",
+          "time": 1696095732375,
+          "used": true
+        }
+      ],
+      "notification": []
+    },
+    {
+      "id": "Q3AI67wt903Zbbm0wBh1",
+      "android_api_level": 30,
+      "android_version": 20220822,
+      "avatar_picture": "https://lh3.googleusercontent.com/a/AGNmyxaM1jpA4RR9GYPAlP1askGUiN7bRZdy8h8zCLrvS6s=s96-c",
+      "config": "",
+      "device_brand": "Google",
+      "device_model": "Pixel 2",
+      "email": "esaruhan4345@gmail.com",
+      "name": "Ertuğrul",
+      "platform": "android",
+      "platform_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+      "surname": "Saruhan",
+      "timezone_id": "Europe/Istanbul",
+      "timezone_name": "GMT+03:00",
+      "uuid": "cAYAb42ITiixqfZZ3FkMKA",
+      "childs": [
+        {
+          "Document ID": "9gq7gh3Q2m7xLFiYaFrH",
+          "android_api_level": 30,
+          "android_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "device_brand": "Google",
+          "device_model": "Pixel 2",
+          "illumination": true,
+          "last_location": "",
+          "nick_name": "My Nick",
+          "platform": "android",
+          "platform_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "timezone_id": "Europe/Istanbul",
+          "timezone_name": "GMT+03:00",
+          "user_id": "Q3AI67wt903Zbbm0wBh1",
+          "uuid": "cAYAb42ITiixqfZZ3FkMKA",
+          "locations": ""
+        },
+        {
+          "Document ID": "CEht9e4Kk6SVgcgaM5Bh",
+          "android_api_level": 30,
+          "android_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "device_brand": "Google",
+          "device_model": "Pixel 2",
+          "illumination": "",
+          "last_location": "{hash: \"sqp4tmuj95",
+          "nick_name": "lat: 34.222",
+          "platform": "lng: 21.33",
+          "platform_id": "time: 1693735890510}",
+          "timezone_id": "My Nick",
+          "timezone_name": "android",
+          "user_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "uuid": "Europe/Istanbul",
+          "locations": "GMT+03:00"
+        },
+        {
+          "Document ID": "sQG9ePjCJJuyrj7S9tHW",
+          "android_api_level": 30,
+          "android_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "device_brand": "Google",
+          "device_model": "Pixel 2",
+          "illumination": "",
+          "last_location": "{hash: \"sqp4tmuj95",
+          "nick_name": "lat: 34.222",
+          "platform": "time: 1693735725730",
+          "platform_id": "lng: 21.33}",
+          "timezone_id": "My Nick",
+          "timezone_name": "android",
+          "user_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "uuid": "Europe/Istanbul",
+          "locations": "GMT+03:00"
+        },
+        {
+          "Document ID": "vYxeSQ19bepsSygpJBXP",
+          "android_api_level": 30,
+          "android_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "device_brand": "Google",
+          "device_model": "Pixel 2",
+          "illumination": "",
+          "last_location": "",
+          "nick_name": "My Nick",
+          "platform": "android",
+          "platform_id": "cnpIXNeuTVapWhFfGKjkY-:APA91bHx9m1us-Vigf3ANFEwEL-jnn_jwTMNyACb8RH5ceg0SgSbKhTF6thVJe8CDk8t3MArPJK8JInCr4m5svii8F5oz6hhzM999EYDpfs3Nv_aRn2P7NphXH5AMANy67gqrumHUl67",
+          "timezone_id": "Europe/Istanbul",
+          "timezone_name": "GMT+03:00",
+          "user_id": "Q3AI67wt903Zbbm0wBh1",
+          "uuid": "cAYAb42ITiixqfZZ3FkMKA",
+          "locations": ""
+        }
+      ],
+      "codes": [
+        {
+          "Document ID": "5dmk7TEO7h8CFveS9M2q",
+          "code": 942961,
+          "nick_name": "mynick",
+          "time": 1693735723172,
+          "used": false
+        },
+        {
+          "Document ID": "DtWaKGhwIEy5rAYiMm00",
+          "code": 533387,
+          "nick_name": "mynick",
+          "time": 1693735723724,
+          "used": true
+        },
+        {
+          "Document ID": "Lfvn5b0c8eb87qMYnPN8",
+          "code": 489441,
+          "nick_name": "mynick",
+          "time": 1693735888279,
+          "used": true
+        },
+        {
+          "Document ID": "cKPV2jgFzz6xs2YatDkN",
+          "code": 404182,
+          "nick_name": "mynick",
+          "time": 1693735887805,
+          "used": false
+        }
+      ],
+      "notification": [
+        {
+          "Document ID": "vHhjQyzHmwYoW5scwsBG",
+          "child_id": "2HJBtrsOwlb7RKoDyM7y",
+          "completed": true,
+          "is_send": true,
+          "message": "Hello man",
+          "push_type": 1,
+          "response_message": "projects/devblend-5b4b0/messages/0:1695152216127820%5b177a28f9fd7ecd",
+          "time": 1694961344291,
+          "title": "SOS",
+          "token": "c8NIiqeNRw2vY8ezmw90Uh:APA91bFPAyXWYWh6PBDr2tx4mkpEyCzNkC4epHJa9_TkwFWmQSAu0Vpd4OD-HTXYVYCLHp9lIG-fr3MvPlIBrlADQzL-RCdnFlHEtFwT9S32zcv9phi-M_VbJv6z4vCUPEBhs61cp076"
+        }
+      ]
+    }
+  ]
 }
